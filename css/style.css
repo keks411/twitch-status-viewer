@@ -1,0 +1,38 @@
+@import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
+body {
+  background-color: #6441a5;
+}
+
+.twitch {
+  text-align: center;
+  font-family: "Permanent Marker";
+  color: white;
+  font-size: 80px;
+}
+
+.jumbo {
+  background-color: transparent;
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.well {
+  margin-left:-14px;
+  margin-right:-14px;
+  margin-bottom:0px;
+  height:60px;
+}
+#headName {
+  font-size:30px;
+  margin-top:-10px;
+  font-family:"Permanent Marker"
+}
+#headContent {
+  font-size:16px;
+  color:white;
+}
+#s-beo, #c-beo, #s-n2n, #c-n2n, #c-thomas, #s-thomas, #c-robo, #s-robo, #s-haba, #c-haba, #c-tera, #s-tera, #s-storbeck, #c-storbeck, #c-fcc, #s-fcc, #fcc, #storbeck, #tera, #haba, #robo, #thomas, #n2n, #beo, #wellc {
+  background-color:black;
+  margin-top:2px;
+}
